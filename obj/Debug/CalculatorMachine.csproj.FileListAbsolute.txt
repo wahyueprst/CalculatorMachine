@@ -1,0 +1,12 @@
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\Pemograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
